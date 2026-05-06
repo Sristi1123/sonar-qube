@@ -1,0 +1,7 @@
+services:
+
+  sonarqube:
+    image: sonarqube:lts-community
+    container_name: sonar-server
+    ports:
+      - "9000:9000"
