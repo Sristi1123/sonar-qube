@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "sonar-express-ts-demo",
   "version": "1.0.0",
   "description": "Simple Express.js TypeScript app for SonarQube demo",
@@ -21,14 +20,3 @@
     "typescript": "^5.3.3"
   }
 }
-=======
-  "name": "sonar-demo",
-  "version": "1.0.0",
-  "scripts": {
-    "build": "tsc"
-  },
-  "devDependencies": {
-    "typescript": "^5.3.3"
-  }
-}
->>>>>>> d6ab790 (first commit)
